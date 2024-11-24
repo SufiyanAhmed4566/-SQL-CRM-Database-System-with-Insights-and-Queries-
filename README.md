@@ -9,7 +9,7 @@ A comprehensive SQL-based project focusing on Customer Relationship Management (
 - Extensive Queries: Includes more than 100 SQL queries for data retrieval, insights, and analytics
 
 ## *Database Schema Overview*
-
+![CRM-DataBase-Schema](CRM-DataBase-Schema.jpg)
 ### *Tables and Relationships*
 
 1. *Customer Table*
