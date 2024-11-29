@@ -1,5 +1,5 @@
 
-CREATE TABLE Cust(
+CREATE TABLE Custj(
     CustomerID INT PRIMARY KEY,
     Name VARCHAR2(255),
     Email VARCHAR2(255),
