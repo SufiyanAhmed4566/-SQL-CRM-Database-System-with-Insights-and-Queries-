@@ -1,6 +1,6 @@
 
 
-yu77dhjd
+yu77dhjdjh
 CREATE TABLE Customer (
     CustomerID INT PRIMARY KEY,
     Name VARCHAR2(255),
