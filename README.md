@@ -8,6 +8,10 @@ A comprehensive SQL-based project focusing on Customer Relationship Management (
 - Relationships: Properly defined foreign key constraints
 - Extensive Queries: Includes more than 100 SQL queries for data retrieval, insights, and analytics
 
+## ER Diagram 
+
+
+
 ## *Database Schema Overview*
 ![CRM-DataBase-Schema](CRM-DataBase-Schema.jpg)
 ### *Tables and Relationships*
@@ -25,7 +29,6 @@ CREATE TABLE Customer (
   Address VARCHAR(255)
 );
 ```
-
 2. *Product Table*
 
 Stores details of products.
