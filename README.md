@@ -9,6 +9,7 @@ A comprehensive SQL-based project focusing on Customer Relationship Management (
 - Extensive Queries: Includes more than 100 SQL queries for data retrieval, insights, and analytics
 
 ## ER Diagram 
+![CRM](CRM.jpg)
 
 
 
