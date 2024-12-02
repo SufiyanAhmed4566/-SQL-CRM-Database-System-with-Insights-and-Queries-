@@ -1,4 +1,3 @@
-jjwuis
 
 
 CREATE TABLE Customer (
