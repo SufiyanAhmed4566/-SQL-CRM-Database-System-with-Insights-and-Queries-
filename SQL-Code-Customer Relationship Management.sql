@@ -1,4 +1,4 @@
-cr
+crjj
 
 CREATE TABLE Customer (
     CustomerID INT PRIMARY KEY,
