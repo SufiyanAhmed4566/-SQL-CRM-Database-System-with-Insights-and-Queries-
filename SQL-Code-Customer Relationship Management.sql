@@ -5,7 +5,7 @@ CREATE TABLE Customer (
     Phone VARCHAR2(20),
     Address VARCHAR2(255)
 );
-
+jj
 
 
 CREATE TABLE Product (
