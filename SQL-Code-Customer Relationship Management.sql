@@ -6,7 +6,7 @@ CREATE TABLE Customer (
     Address VARCHAR2(255)
 );
 jjuu
-
+uuu
 
 CREATE TABLE Product (
     ProductID INT PRIMARY KEY,
